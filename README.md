@@ -4,16 +4,16 @@ This project analyzes carbon intensity and carbon-free energy share in Italy and
 
 The project consists of 4 java files:
 
-Query1.java
+Query1.java: 
 Calculating yearly averages, minimum and maximum values of both carbon intensity and CFE in Italy and Sweden for every year from 2021 to 2024.
 
-Query1Graph.java
+Query1Graph.java: 
 Printing charts via XChart showing the data of query 1 in two graphs.
 
-Query2.java
+Query2.java: 
 A monthly carbon intensity analysis for Italy only, determining the five highest/lowest carbon intensity and CFE months between 2021 and 2024.
 
-Query2Graph.java
+Query2Graph.java: 
 Printing charts via XChart showing the data of query 2 in two graphs.
 
 Important note: For the programs to work correctly, the file paths have to be adjusted. Scan the Comments for Asterisk lines to find these code lines.
