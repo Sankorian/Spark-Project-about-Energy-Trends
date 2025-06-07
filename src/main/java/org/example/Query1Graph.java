@@ -7,6 +7,7 @@ import java.util.*;
 public class Query1Graph {
     public static void main(String[] args) throws Exception {
         // Reading CSV File with a BufferedReader br
+        // ***THIS LINE HAS TO BE EDITED ON DIFFERENT SYSTEMS!***
         BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\daost\\Desktop\\Sistemi e Architetture per Big Data\\Progetto1 Information and Data\\query1_results.csv"));
         
         //Creating important arrays for the chart
